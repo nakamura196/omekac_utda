@@ -1,0 +1,1936 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://raw.githubusercontent.com/nakamura196/omekac_utda/master/docs/oa/collections/8/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "General Library in the University of Tokyo",
+    "description": "【解題】直江状(東京大学総合図書館所蔵承応三年刊本)\r\n 安土桃山時代から江戸時代前期の大名上杉景勝に仕えた重臣直江兼続(1560~1619)が記したとされる書状を、承応3年(1654)に京都の中村五郎右衛門が刊行したもの。全28丁からなる和装本で、大きさは26.5×17.6cm、総合図書館の貴重書に指定されている(請求番号A00:4631)。藻類学者・水産学者であった岡村金太郎(1867~1935)が収集した往来物とよばれる書簡文体の初等教科書・手本類のなかの1点であり、そのコレクションは関東大震災後の大正14年(1925)に購入・登録され、岡村文庫と称されている。\r\n\r\n 内容は、徳川家康への謀反の疑いをかけられた上杉景勝が上洛・弁明を求められたのに対し、上洛の困難な理由、家康への逆心のないこと、讒言を用いるべきではないこと等、直江兼続が反論を加えたもの。家康のブレーンであった京都の臨済宗豊光寺の僧・西笑承兌に宛てた、慶長5年(1600)4月14日付けの返書の形を取っている。\r\n\r\n 「直江状」は、同年の関が原の戦へとつながる家康の会津上杉攻めの口実を作ったとして従来から注目されてきた。一方で、原本が未確認であり、古文書集に収録された写本や総合図書館所蔵本のように版本として流布してきたこともあり、その表記法や内容等から歴史的資料としての信憑性を疑う説も提出されている。少なくとも総合図書館所蔵本の性格を考える上では、かつて往来物として収集されたことに留意しておいてよいだろう。",
+    "label": "直江状",
+    "license": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/naoe/page/reuse",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "直江状"
+        },
+        {
+            "label": "Identifier",
+            "value": "daaf81b0-f1a7-435c-9216-a8fb56390887"
+        },
+        {
+            "label": "attributionLabel",
+            "value": [
+                "General Library in the University of Tokyo",
+                "東京大学総合図書館"
+            ]
+        },
+        {
+            "label": "Source",
+            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/manifest"
+        }
+    ],
+    "related": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/naoe/document/daaf81b0-f1a7-435c-9216-a8fb56390887",
+    "seeAlso": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/api/items/13",
+    "sequences": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/omekac/oa/collections/8/sequence.json",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1958,
+                    "images": [
+                        {
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/13/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p1",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1958,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85",
+                                    "height": 1958,
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 2880
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_utda/master/docs/oa/items/647/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 1958,
+                    "images": [
+                        {
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/13/annotation/p0002-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p2",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1958,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86",
+                                    "height": 1958,
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 2880
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_utda/master/docs/oa/items/648/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/86",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "height": 1958,
+                    "images": [
+                        {
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/13/annotation/p0003-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p3",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1958,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87",
+                                    "height": 1958,
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 2880
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "[3]",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_utda/master/docs/oa/items/649/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/87",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p4",
+                    "@type": "sc:Canvas",
+                    "height": 1958,
+                    "images": [
+                        {
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/13/annotation/p0004-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p4",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1958,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88",
+                                    "height": 1958,
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 2880
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "[4]",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_utda/master/docs/oa/items/650/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/88",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p5",
+                    "@type": "sc:Canvas",
+                    "height": 1953,
+                    "images": [
+                        {
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/13/annotation/p0005-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p5",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/89",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1953,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/89",
+                                    "height": 1953,
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 2880
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "[5]",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_utda/master/docs/oa/items/651/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/89/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/89",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p6",
+                    "@type": "sc:Canvas",
+                    "height": 1914,
+                    "images": [
+                        {
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/13/annotation/p0006-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p6",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/90",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1914,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/90",
+                                    "height": 1914,
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 2880
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "[6]",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_utda/master/docs/oa/items/652/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/90/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/90",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p7",
+                    "@type": "sc:Canvas",
+                    "height": 1958,
+                    "images": [
+                        {
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/13/annotation/p0007-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p7",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/91",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1958,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/91",
+                                    "height": 1958,
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 2880
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "[7]",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_utda/master/docs/oa/items/653/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/91/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/91",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p8",
+                    "@type": "sc:Canvas",
+                    "height": 1958,
+                    "images": [
+                        {
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/13/annotation/p0008-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p8",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/92",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1958,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/92",
+                                    "height": 1958,
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 2880
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "[8]",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_utda/master/docs/oa/items/654/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/92/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/92",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p9",
+                    "@type": "sc:Canvas",
+                    "height": 1958,
+                    "images": [
+                        {
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/13/annotation/p0009-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p9",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/93",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1958,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/93",
+                                    "height": 1958,
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 2880
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "[9]",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_utda/master/docs/oa/items/655/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/93/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/93",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p10",
+                    "@type": "sc:Canvas",
+                    "height": 1942,
+                    "images": [
+                        {
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/13/annotation/p0010-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p10",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/94",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1942,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/94",
+                                    "height": 1942,
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 2880
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "[10]",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_utda/master/docs/oa/items/656/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/94/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/94",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p11",
+                    "@type": "sc:Canvas",
+                    "height": 1957,
+                    "images": [
+                        {
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/13/annotation/p0011-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p11",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/95",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1957,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/95",
+                                    "height": 1957,
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 2880
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "[11]",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_utda/master/docs/oa/items/657/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/95/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/95",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p12",
+                    "@type": "sc:Canvas",
+                    "height": 1915,
+                    "images": [
+                        {
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/13/annotation/p0012-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p12",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/96",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1915,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/96",
+                                    "height": 1915,
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 2880
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "[12]",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_utda/master/docs/oa/items/658/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/96/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/96",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p13",
+                    "@type": "sc:Canvas",
+                    "height": 1918,
+                    "images": [
+                        {
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/13/annotation/p0013-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p13",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/97",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1918,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/97",
+                                    "height": 1918,
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 2880
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "[13]",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_utda/master/docs/oa/items/659/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/97/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/97",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p14",
+                    "@type": "sc:Canvas",
+                    "height": 1937,
+                    "images": [
+                        {
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/13/annotation/p0014-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p14",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/98",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1937,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/98",
+                                    "height": 1937,
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 2880
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "[14]",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_utda/master/docs/oa/items/660/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/98/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/98",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p15",
+                    "@type": "sc:Canvas",
+                    "height": 1937,
+                    "images": [
+                        {
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/13/annotation/p0015-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p15",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/99",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1937,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/99",
+                                    "height": 1937,
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 2880
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "[15]",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_utda/master/docs/oa/items/661/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/99/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/99",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p16",
+                    "@type": "sc:Canvas",
+                    "height": 1951,
+                    "images": [
+                        {
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/13/annotation/p0016-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p16",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/100",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1951,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/100",
+                                    "height": 1951,
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 2880
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "[16]",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_utda/master/docs/oa/items/662/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/100/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/100",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p17",
+                    "@type": "sc:Canvas",
+                    "height": 1953,
+                    "images": [
+                        {
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/13/annotation/p0017-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p17",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/101",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1953,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/101",
+                                    "height": 1953,
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 2880
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "[17]",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_utda/master/docs/oa/items/663/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/101/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/101",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p18",
+                    "@type": "sc:Canvas",
+                    "height": 1923,
+                    "images": [
+                        {
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/13/annotation/p0018-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p18",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/102",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1923,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/102",
+                                    "height": 1923,
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 2880
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "[18]",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_utda/master/docs/oa/items/664/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/102/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/102",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p19",
+                    "@type": "sc:Canvas",
+                    "height": 1945,
+                    "images": [
+                        {
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/13/annotation/p0019-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p19",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/103",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1945,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/103",
+                                    "height": 1945,
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 2880
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "[19]",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_utda/master/docs/oa/items/665/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/103/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/103",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p20",
+                    "@type": "sc:Canvas",
+                    "height": 1971,
+                    "images": [
+                        {
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/13/annotation/p0020-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p20",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/104",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1971,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/104",
+                                    "height": 1971,
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 2880
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "[20]",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_utda/master/docs/oa/items/666/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/104/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/104",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p21",
+                    "@type": "sc:Canvas",
+                    "height": 1937,
+                    "images": [
+                        {
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/13/annotation/p0021-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p21",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/105",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1937,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/105",
+                                    "height": 1937,
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 2880
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "[21]",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_utda/master/docs/oa/items/667/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/105/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/105",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p22",
+                    "@type": "sc:Canvas",
+                    "height": 1928,
+                    "images": [
+                        {
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/13/annotation/p0022-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p22",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/106",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1928,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/106",
+                                    "height": 1928,
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 2880
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "[22]",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_utda/master/docs/oa/items/668/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/106/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/106",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p23",
+                    "@type": "sc:Canvas",
+                    "height": 1952,
+                    "images": [
+                        {
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/13/annotation/p0023-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p23",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/107",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1952,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/107",
+                                    "height": 1952,
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 2880
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "[23]",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_utda/master/docs/oa/items/669/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/107/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/107",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p24",
+                    "@type": "sc:Canvas",
+                    "height": 1930,
+                    "images": [
+                        {
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/13/annotation/p0024-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p24",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/108",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1930,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/108",
+                                    "height": 1930,
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 2880
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "[24]",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_utda/master/docs/oa/items/670/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/108/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/108",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p25",
+                    "@type": "sc:Canvas",
+                    "height": 1953,
+                    "images": [
+                        {
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/13/annotation/p0025-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p25",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/109",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1953,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/109",
+                                    "height": 1953,
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 2880
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "[25]",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_utda/master/docs/oa/items/671/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/109/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/109",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p26",
+                    "@type": "sc:Canvas",
+                    "height": 1958,
+                    "images": [
+                        {
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/13/annotation/p0026-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p26",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/110",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1958,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/110",
+                                    "height": 1958,
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 2880
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "[26]",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_utda/master/docs/oa/items/672/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/110/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/110",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p27",
+                    "@type": "sc:Canvas",
+                    "height": 1958,
+                    "images": [
+                        {
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/13/annotation/p0027-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p27",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/111",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1958,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/111",
+                                    "height": 1958,
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 2880
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "[27]",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_utda/master/docs/oa/items/673/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/111/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/111",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p28",
+                    "@type": "sc:Canvas",
+                    "height": 1958,
+                    "images": [
+                        {
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/13/annotation/p0028-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p28",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/112",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1958,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/112",
+                                    "height": 1958,
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 2880
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "[28]",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_utda/master/docs/oa/items/674/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/112/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/112",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p29",
+                    "@type": "sc:Canvas",
+                    "height": 1958,
+                    "images": [
+                        {
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/13/annotation/p0029-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p29",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/113",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1958,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/113",
+                                    "height": 1958,
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 2880
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "[29]",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_utda/master/docs/oa/items/675/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/113/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/113",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p30",
+                    "@type": "sc:Canvas",
+                    "height": 1958,
+                    "images": [
+                        {
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/13/annotation/p0030-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p30",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/114",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1958,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/114",
+                                    "height": 1958,
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 2880
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "[30]",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_utda/master/docs/oa/items/676/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/114/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/114",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p31",
+                    "@type": "sc:Canvas",
+                    "height": 1958,
+                    "images": [
+                        {
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/13/annotation/p0031-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/canvas/p31",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/115",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1958,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/115",
+                                    "height": 1958,
+                                    "profile": "http://iiif.io/api/image/2/level2.json",
+                                    "tiles": [
+                                        {
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16
+                                            ],
+                                            "width": 256
+                                        }
+                                    ],
+                                    "width": 2880
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "[31]",
+                    "metadata": [
+                        {
+                            "label": "Source",
+                            "value": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/daaf81b0-f1a7-435c-9216-a8fb56390887/manifest"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://raw.githubusercontent.com/nakamura196/omekac_utda/master/docs/oa/items/677/annolist.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/115/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/115",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif-img/85/full/200,/0/default.jpg",
+    "viewingDirection": "right-to-left",
+    "within": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/naoe/"
+}

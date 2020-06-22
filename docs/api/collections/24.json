@@ -1,0 +1,166 @@
+{
+    "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/omekac/api/24.json",
+    "added": "2018-11-04T17:28:40+00:00",
+    "element_texts": [
+        {
+            "element": {
+                "id": 50,
+                "name": "Title",
+                "resource": "elements",
+                "url": "https://iiif.dl.itc.u-tokyo.ac.jp/omekac/api/elements/50"
+            },
+            "element_set": {
+                "id": 1,
+                "name": "Dublin Core",
+                "resource": "element_sets",
+                "url": "https://iiif.dl.itc.u-tokyo.ac.jp/omekac/api/element_sets/1"
+            },
+            "html": false,
+            "text": "大明地理之図"
+        },
+        {
+            "element": {
+                "id": 48,
+                "name": "Source",
+                "resource": "elements",
+                "url": "https://iiif.dl.itc.u-tokyo.ac.jp/omekac/api/elements/48"
+            },
+            "element_set": {
+                "id": 1,
+                "name": "Dublin Core",
+                "resource": "element_sets",
+                "url": "https://iiif.dl.itc.u-tokyo.ac.jp/omekac/api/element_sets/1"
+            },
+            "html": false,
+            "text": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/manifest"
+        },
+        {
+            "element": {
+                "id": 45,
+                "name": "Publisher",
+                "resource": "elements",
+                "url": "https://iiif.dl.itc.u-tokyo.ac.jp/omekac/api/elements/45"
+            },
+            "element_set": {
+                "id": 1,
+                "name": "Dublin Core",
+                "resource": "element_sets",
+                "url": "https://iiif.dl.itc.u-tokyo.ac.jp/omekac/api/element_sets/1"
+            },
+            "html": false,
+            "text": "東洋文庫 / TOYO BUNKO"
+        },
+        {
+            "element": {
+                "id": 47,
+                "name": "Rights",
+                "resource": "elements",
+                "url": "https://iiif.dl.itc.u-tokyo.ac.jp/omekac/api/elements/47"
+            },
+            "element_set": {
+                "id": 1,
+                "name": "Dublin Core",
+                "resource": "element_sets",
+                "url": "https://iiif.dl.itc.u-tokyo.ac.jp/omekac/api/element_sets/1"
+            },
+            "html": false,
+            "text": "http://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+            "element": {
+                "id": 57,
+                "name": "Original @id",
+                "resource": "elements",
+                "url": "https://iiif.dl.itc.u-tokyo.ac.jp/omekac/api/elements/57"
+            },
+            "element_set": {
+                "id": 6,
+                "name": "IIIF Collection Metadata",
+                "resource": "element_sets",
+                "url": "https://iiif.dl.itc.u-tokyo.ac.jp/omekac/api/element_sets/6"
+            },
+            "html": false,
+            "text": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/manifest"
+        },
+        {
+            "element": {
+                "id": 59,
+                "name": "JSON Data",
+                "resource": "elements",
+                "url": "https://iiif.dl.itc.u-tokyo.ac.jp/omekac/api/elements/59"
+            },
+            "element_set": {
+                "id": 6,
+                "name": "IIIF Collection Metadata",
+                "resource": "element_sets",
+                "url": "https://iiif.dl.itc.u-tokyo.ac.jp/omekac/api/element_sets/6"
+            },
+            "html": false,
+            "text": "{\"@context\":\"http://iiif.io/api/presentation/2/context.json\",\"@id\":\"https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/manifest\",\"@type\":\"sc:Manifest\",\"label\":\"\\u5927\\u660e\\u5730\\u7406\\u4e4b\\u56f3\",\"license\":\"http://creativecommons.org/licenses/by/4.0/\",\"attribution\":\"\\u6771\\u6d0b\\u6587\\u5eab / TOYO BUNKO\",\"metadata\":[{\"label\":\"Title\",\"value\":\"\\u5927\\u660e\\u5730\\u7406\\u4e4b\\u56f3\"},{\"label\":\"Identifier\",\"value\":\"map_toyo\"},{\"label\":\"attributionLabel\",\"value\":\"\\u6771\\u6d0b\\u6587\\u5eab / TOYO BUNKO\"}],\"sequences\":[{\"@id\":\"https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/sequence/normal\",\"@type\":\"sc:Sequence\",\"label\":\"Current Page Order\",\"viewingHint\":\"non-paged\",\"canvases\":[{\"@id\":\"https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1\",\"@type\":\"sc:Canvas\",\"label\":\"[1]\",\"thumbnail\":{\"@id\":\"https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/full/200,200/0/default.jpg\",\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif\",\"profile\":\"http://iiif.io/api/image/2/level2.json\"}},\"width\":29008,\"height\":23339,\"images\":[{\"@id\":\"https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/annotation/p0001-image\",\"@type\":\"oa:Annotation\",\"motivation\":\"sc:painting\",\"resource\":{\"@id\":\"https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/full/full/0/default.jpg\",\"@type\":\"dctypes:Image\",\"format\":\"image/jpeg\",\"width\":29008,\"height\":23339,\"service\":{\"@context\":\"http://iiif.io/api/image/2/context.json\",\"@id\":\"https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif\",\"profile\":\"http://iiif.io/api/image/2/level2.json\",\"width\":29008,\"height\":23339}},\"on\":\"https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/repot/iiif/66260/canvas/p1\"}]}]}],\"viewingDirection\":\"left-to-right\"}"
+        },
+        {
+            "element": {
+                "id": 58,
+                "name": "IIIF Type",
+                "resource": "elements",
+                "url": "https://iiif.dl.itc.u-tokyo.ac.jp/omekac/api/elements/58"
+            },
+            "element_set": {
+                "id": 6,
+                "name": "IIIF Collection Metadata",
+                "resource": "element_sets",
+                "url": "https://iiif.dl.itc.u-tokyo.ac.jp/omekac/api/element_sets/6"
+            },
+            "html": false,
+            "text": "Manifest"
+        },
+        {
+            "element": {
+                "id": 63,
+                "name": "UUID",
+                "resource": "elements",
+                "url": "https://iiif.dl.itc.u-tokyo.ac.jp/omekac/api/elements/63"
+            },
+            "element_set": {
+                "id": 6,
+                "name": "IIIF Collection Metadata",
+                "resource": "element_sets",
+                "url": "https://iiif.dl.itc.u-tokyo.ac.jp/omekac/api/element_sets/6"
+            },
+            "html": false,
+            "text": "c74b17bf-1674-4869-bd82-2233c40a4d91"
+        },
+        {
+            "element": {
+                "id": 46,
+                "name": "Relation",
+                "resource": "elements",
+                "url": "https://iiif.dl.itc.u-tokyo.ac.jp/omekac/api/elements/46"
+            },
+            "element_set": {
+                "id": 1,
+                "name": "Dublin Core",
+                "resource": "element_sets",
+                "url": "https://iiif.dl.itc.u-tokyo.ac.jp/omekac/api/element_sets/1"
+            },
+            "html": false,
+            "text": "https://iiif.dl.itc.u-tokyo.ac.jp/api/iiif-search/XQUC%EF%BC%8BToMC6T4%EF%BC%8Bt7IraYt3TV2GgAs013ZGsVP2uAAB0hVwxAlbxe4NTayJQVOUYyK1ertcqyjwnXn%EF%BC%8FAWftm56tg%3D%3D"
+        }
+    ],
+    "extended_resources": [],
+    "featured": false,
+    "id": 24,
+    "items": {
+        "count": 1,
+        "resource": "items",
+        "url": "https://iiif.dl.itc.u-tokyo.ac.jp/omekac/api/items?collection=24"
+    },
+    "modified": "2018-11-04T17:48:45+00:00",
+    "owner": {
+        "id": 1,
+        "resource": "users",
+        "url": "https://iiif.dl.itc.u-tokyo.ac.jp/omekac/api/users/1"
+    },
+    "public": true,
+    "url": "https://iiif.dl.itc.u-tokyo.ac.jp/omekac/api/collections/24"
+}
