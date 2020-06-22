@@ -24,11 +24,12 @@ def get(data_json, data_url):
 
 files = glob.glob(prefix_2+"/api/collections/*.json")
 
+manifests = []
+
 for file in files:
     id = file.split("/")[-1].split(".")[0]
     
     manifest_url = prefix_1 + "/oa/collections/"+str(id)+"/manifest.json"
-
     print(manifest_url)
 
     manifest_json = requests.get(manifest_url).json()
@@ -61,5 +62,22 @@ for file in files:
     manifest_json["@id"] = manifest_json["@id"].replace(prefix_1, prefix_3)
     get(manifest_json, manifest_url)
 
+    # --------
 
+    manifests.append({
+        "@id": manifest_json["@id"],
+        "@type": "sc:Manifest",
+        "label": manifest_json["label"]
+    })
+
+
+collection = {
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": prefix_3 + "/oa/top.json",
+    "@type": "sc:Collection",
+    "label" : "トップコレクション",
+    "manifests": manifests
+}
+
+get(collection, "../../docs/oa/top.json")
 
